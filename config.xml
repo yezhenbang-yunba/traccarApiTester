@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE properties SYSTEM 'http://java.sun.com/dtd/properties.dtd'>
+
+<properties>
+    <entry key='host'>http://jt.yunba.io</entry>
+    <entry key='deviceId'>1219</entry>
+    <entry key='user'>12345678912</entry>
+    <entry key="phone">13450860360</entry>
+
+    <entry key="interval">10000</entry>
+    
+    <entry key="LoginAPI">true</entry>
+    <entry key="DeviceAPI">false</entry>
+    <entry key="PositionAPI">false</entry>
+    <entry key="JourneyAPI">false</entry>
+    
+</properties>
